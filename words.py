@@ -1,0 +1,6 @@
+#words.py
+words = [
+    "APPLE", "BANANA", "ORANGE", "GRAPES", "MANGO",
+    "PINEAPPLE", "STRAWBERRY", "CHERRY", "BLUEBERRY", "WATERMELON",
+    "PAPAYA", "PEACH", "PLUM", "POMEGRANATE", "COCONUT"
+]
